@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mypolian-cyber.github.io/handbook-6i0gnh/sitemap.xml
